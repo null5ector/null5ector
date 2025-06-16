@@ -4,7 +4,7 @@
   <img width="35%" src="https://github.com/SadmanShoumik/SadmanShoumik/blob/main/SadmanShoumik.PNG" />
 </p>
 
-- 👋 Hey, I’m @SadmanShoumik
+- 👋 Hey, I’m @null5ector
 - 👀 Interested in machine learning, data analysis and AI, alongside fullstack development.
 - 🌱 Currently learning the basics of C#, Python and PHP.
 - 💞️ I’m not looking to collaborate on anything at the moment.
