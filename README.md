@@ -5,7 +5,7 @@
 </p>
 
 - 👋 Hey, I’m @null5ector
-- 👀 Interested in machine learning, data analysis and AI, alongside fullstack development.
-- 🌱 Currently learning the basics of C#, Python and PHP.
+- 👀 Interested in process automation alongside backend web development.
+- 🌱 Currently working with C#/.NET and Azure Automation Tools.
 - 💞️ I’m not looking to collaborate on anything at the moment.
 - 📫 How to reach me? Would be great if you didn't.
